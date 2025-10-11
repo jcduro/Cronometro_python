@@ -32,3 +32,12 @@ Librería estándar tkinter (viene incluida con Python)
 Verifica si Tkinter está instalado ejecutando en tu terminal:
 
 python -m tkinter
+
+---
+
+## 🚀 Cómo usarlo localmente
+
+1. Clona el repositorio:
+   ```bash
+    git clone https://github.com/jcduro/Cronometro_Python.git
+    cd Cronometro_Python
