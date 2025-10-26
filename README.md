@@ -15,6 +15,13 @@ Muestra horas, minutos, segundos y milisegundos
 
 ---
 
+## 📊 Lenguajes y Herramientas
+
+[![My Skills](https://skillicons.dev/icons?i=python,github,linux,vscode&theme=light&perline=8)](https://skillicons.dev)
+
+
+---
+
 ## 🚀 Botones de control:
 
 🟢 Iniciar: comienza la cuenta
